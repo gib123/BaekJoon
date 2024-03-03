@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BaekJoon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_1000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_1001" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_1008" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10170" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10171" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10172" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10430" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10699" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10718" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10757" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10807" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10809" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10869" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10871" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10872" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10926" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10950" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10951" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10952" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_10998" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11021" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11382" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11654" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11718" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_11942" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_1271" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_13277" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_1330" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_14645" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_14652" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_14681" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_14928" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_15727" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_15733" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_15740" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_15962" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_15964" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_16170" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_16394" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_16430" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_17256" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_17295" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_18108" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_20492" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2338" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2420" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2438" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2475" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_25083" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_25304" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2557" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2558" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2738" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2739" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2741" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2743" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2744" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2753" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_2754" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_3003" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_4101" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_4999" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_5337" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_5338" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_5339" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_5522" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_5597" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_7287" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_8370" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_8393" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_9086" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_9498" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_9653" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bronze/BV_9654" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeUp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SW_Expert_Academy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
